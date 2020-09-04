@@ -5,7 +5,7 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently working on a [Wordpress Website][currentwork]!
+- 🔭 I’m currently working on a [Wordpress Website][currentwork] & [Laravel E-Commerece Website][currentwork1]!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -40,7 +40,8 @@
 
 
 [website]: http://abdulrehman25.tk
-[currentwork]: https://enrichers.com.pk
+[currentwork]: https://jfosterint.com
+[currentwork1]: https://aambala.de
 [twitter]: https://twitter.com/abdulrehman2552
 [instagram]: https://instagram.com/abdulrehman.28
 [linkedin]: https://linkedin.com/in/manikhokhar25
