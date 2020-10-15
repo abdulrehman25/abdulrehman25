@@ -1,7 +1,7 @@
 ### Hi there, I'm Abdul Rehman - Mani [abdulrehman25][website] 👋
 
-[![Website](https://img.shields.io/website?label=abdulrehman25.tk&style=for-the-badge&url=http%3A%2F%2Fabdulrehman25.tk)](http://abdulrehman25.tk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/abdulrehman2552?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabdulrehman2552&screen_name=abdulrehman2552)
+[![Website](https://img.shields.io/website?label=abdulrehman.pk&style=for-the-badge&url=http%3A%2F%2Fabdulrehman.pk)](http://abdulrehman.pk)
+[![Twitter Follow](https://img.shields.io/twitter/follow/abdulrehman__pk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabdulrehman__pk&screen_name=abdulrehman__pk)
 
 ## I'm a Student and Developer!
 
@@ -39,9 +39,9 @@
 <img align="left" alt="abdulrehman25's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=abdulrehman25&show_icons=true&hide_border=true" />
 
 
-[website]: http://abdulrehman25.tk
-[currentwork]: https://jfosterint.com
+[website]: http://abdulrehman.pk
+[currentwork]: https://skstonesusa.com
 [currentwork1]: https://aambala.de
-[twitter]: https://twitter.com/abdulrehman2552
-[instagram]: https://instagram.com/abdulrehman.28
-[linkedin]: https://linkedin.com/in/manikhokhar25
+[twitter]: https://twitter.com/abdulrehman__pk
+[instagram]: https://instagram.com/abdulrehmandotpk
+[linkedin]: https://linkedin.com/in/abdulrehmandotpk
