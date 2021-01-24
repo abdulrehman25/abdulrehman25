@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=abdulrehman.pk&style=for-the-badge&url=http%3A%2F%2Fabdulrehman.pk)](http://abdulrehman.pk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/abdulrehman__pk?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fabdulrehman__pk&screen_name=abdulrehman__pk)
-[![fiverr](https://img.shields.io/badge/Hire%20On%20Fiverr-5(45%20reviews)-brightgreen?color=1dbf73&logo=fiverr&style=for-the-badge)](https://www.fiverr.com/abdulrehman25)
+[![fiverr](https://img.shields.io/badge/Hire%20On%20Fiverr-5(45%20reviews)-brightgreen?color=1dbf73&logo=fiverr&style=for-the-badge)]([fiverr])
 
 ## I'm a Student and Developer!
 
