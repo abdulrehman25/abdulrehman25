@@ -12,10 +12,15 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects, Learn Python Django & (Vue, React and Node JS)
 - ⚡ Fun fact: I love to play with water in pool!🤣
 
+<p align="left"> 
+  <b>Visitor count</b><br>
+  <img src="https://profile-counter.glitch.me/abdulrehman25/count.svg" />
+</p>
+
 ### Connect with me:
 
-[<img align="left" alt="abdulrehman.pk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="abdulrehma25 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="color:white" align="left" alt="abdulrehman.pk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img style="color:white" align="left" alt="abdulrehma25 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="abdulrehma25 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abdulrehma25 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="abdulrehma25 | Fiverr" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/fiverr.svg" />][fiverr]
