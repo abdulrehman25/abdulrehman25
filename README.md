@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Clinical Face Detection Web App](#)
 
-- 🌱 I’m currently learning **Vue.JS, Solidity, NodeJS**
+- 🌱 I’m currently learning **Vue.JS, InertiaJS, Solidity, NodeJS**
 
 - 👯 I’m looking to collaborate on **NodeJS, React, VueJs**
 
